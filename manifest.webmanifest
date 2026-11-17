@@ -1,6 +1,6 @@
 {
-  "name": "Speech Partner.French",
-  "short_name": "SP French",
+  "name": "SpeechPartner.French",
+  "short_name": "SpeechPartner.French",
   "description": "Zinnen, vertaling en oefening voor een gesprek in het Frans.",
   "lang": "nl",
   "start_url": "./",
